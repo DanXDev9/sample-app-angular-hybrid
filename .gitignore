@@ -13,3 +13,5 @@ cypress/videos
 cypress/fixtures
 cypress/plugins
 cypress/support
+package-lock.json
+yarn.lock
